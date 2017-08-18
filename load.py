@@ -47,7 +47,7 @@ def word_vector():
     # (1,)
     apples.similarity(oranges)
 
-
+word_vector()
 
 
 
